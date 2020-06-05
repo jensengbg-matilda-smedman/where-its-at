@@ -1,0 +1,21 @@
+{
+  "name": "inl5ejuni2020",
+  "version": "1.0.0",
+  "description": "säker kommunikation inlämning",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Matilda",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "lowdb": "^1.0.0",
+    "uuid": "^8.1.0",
+    "uuidv4": "^6.1.0"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "events": [
+    {
+      "eventid": "b4d99ef0-c940-42b7-80c4-2eb3f2d50089",
+      "eventName": "Taylor Swift",
+      "city": "Berlin",
+      "date": "15 June",
+      "from": "20:00",
+      "to": "00:00",
+      "tickets": "1",
+      "price": "£50"
+    },
+    {
+      "eventid": "2444f010-77ef-4cee-88b6-ade6f18e7e03",
+      "eventName": "5SOS",
+      "city": "Tokyo",
+      "date": "20 September",
+      "from": "18:30",
+      "to": "20:00",
+      "tickets": "1",
+      "price": "£80"
+    },
+    {
+      "eventid": "e5efe2af-701b-40ce-837b-6f06976d1548",
+      "eventName": "AC/DC",
+      "city": "Gothenburg",
+      "date": "1 December",
+      "from": "21:30",
+      "to": "00:30",
+      "tickets": "12",
+      "price": "£90"
+    },
+    {
+      "eventid": "6a0ba9b0-de8d-421c-a521-4756115938c0",
+      "eventName": "Veronica Maggio",
+      "city": "Malmö",
+      "date": "3 June",
+      "from": "15:15",
+      "to": "18:00",
+      "tickets": "20",
+      "price": "200kr"
+    },
+    {
+      "eventid": "7aa43b86-8737-405f-8af6-a9cada9a7106",
+      "eventName": "Omar",
+      "city": "Skövde",
+      "date": "1 maj",
+      "from": "14:00",
+      "to": "15:00",
+      "tickets": "30",
+      "price": "300 kr"
+    }
+  ],
+  "tickets": [
+    {
+      "eventid": "2444f010-77ef-4cee-88b6-ade6f18e7e03",
+      "eventName": "5SOS",
+      "city": "Tokyo",
+      "date": "20 September",
+      "from": "18:30",
+      "to": "20:00",
+      "id": "Aa360d"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "uuid": "6caed861-ef19-44a2-92b0-f42801b6fec7",
+      "username": "matilda",
+      "password": "$2b$10$QLMvIuP2AFK6bjwOwZhpc.cyNglBu0sQn1NjruA6rlhBrb/v4LEWi", 
+      "role": "admin"
+    },
+    {
+      "uuid": "3584113f-3bbb-4949-b0ad-d5e7dfc821e1",
+      "username": "evelina",
+      "password": "$2b$10$cC4maIBChoQPnKU1zPWWMuBzar1ZhGLNXyvPmF5YLbsVAJw9LQToS",
+      "role": "staff"
+    }
+  ]
+}

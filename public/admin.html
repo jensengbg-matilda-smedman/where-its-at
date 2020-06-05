@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Where it's @</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Sansita&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="admin-wrapper">
+        <nav>
+            <img src="img/logo-colour.png" alt="logo-colour">
+        </nav>
+        <main id="adminEvents">
+            <section id="events">
+                <div id="eventInfo">
+                    <h3 class="name">NAME</h3>
+                    <h3 class="place">PLACE</h3>
+                    <h3 class="tickets">TICKETS</h3>
+                    <h3 class="price">PRICE</h3></div>
+                <section id="eventList"></section>
+            </section>
+
+            <section id="addEvent">
+                <h2>Add event</h2>
+                <div class="input-event">
+                    <input type="text" id="inputName" placeholder="Name" class="addEventInput">
+                    <input type="text" id="inputWhere" placeholder="Where" class="addEventInput">
+                    <input type="text" id="inputDate" placeholder="Date" class="addEventInput">
+                    <input type="text" id="inputFrom" placeholder="From" class="addEventInput">
+                    <input type="text" id="inputTo" placeholder="To" class="addEventInput">
+                    <input type="text" id="inputTickets" placeholder="Tickets" class="addEventInput">
+                    <input type="text" id="inputPrice" placeholder="Price" class="addEventInput">
+                </div>
+            
+                <button id="addEventButton">Add the event</button>
+            </section>
+    </div>
+
+    <script src="js/admin.js"></script>
+</body>
+</html>
